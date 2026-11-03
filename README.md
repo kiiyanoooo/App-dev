@@ -2,11 +2,19 @@
 My first Repository
 
 ## MY FAVOURITE **MOVIES**:
-### 1. Avengers Infinity War
-### 2. Read Player One
+### 1. Avengers Infinity War  
+### [Know More](https://www.imdb.com/title/tt4154756/)
+### 2. Ready Player One
+### [Know More](https://www.imdb.com/title/tt1677720/fullcredits/)
 ### 3. World War Z
+### [Know More](https://www.imdb.com/title/tt0816711/)
 
 ## MY FAVOURITE **SERIES**:
-### 1. The Walking Dead
-### 2. All of us are Dead
-### 3. BloodHounds
+###  - The Walking Dead
+###  - All of us are Dead
+###  - BloodHounds
+
+![Rock](Rock.jpg)
+
+
+
